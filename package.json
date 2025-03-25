@@ -1,16 +1,22 @@
 {
   "name": "nami-utils",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "namimcp",
   "license": "MIT",
-  "keywords": ["utils"],
+  "keywords": [
+    "utils"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/namimcp/namiutils"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+  }
 }
