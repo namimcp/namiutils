@@ -1,6 +1,6 @@
 {
   "name": "nami-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,10 +12,6 @@
   "keywords": [
     "utils"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/namimcp/namiutils"
-  },
   "description": "",
   "dependencies": {}
 }
